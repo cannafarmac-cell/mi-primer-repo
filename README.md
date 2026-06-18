@@ -4,7 +4,7 @@ Este es mi primer repositorio en GitHub. Estoy aprendiendo a usar Git, GitHub y 
 
 ## Sobre este proyecto
 
-Un proyecto de practica para aprender control de versiones.
+Un proyecto de práctica para aprender control de versiones.
 
 ## Tecnologías
 
